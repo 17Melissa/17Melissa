@@ -4,7 +4,8 @@
 
 🎓 I'm currently studying Computer Science and Financial Management at the University of Waterloo.  
 💡 I like to explore new technologies and develop software solutions and quick hacks.  
-📫 I'm actively seeking 2025 NG SWE positions in Canada and am open to connections on LinkedIn.  
+🌱  I'm on track to learn more about Artificial Intelligence, Systems Design, and Cloud Architecture.  
+📫 I'm actively seeking 2025 NG SWE positions in Canada and am open to connections on [LinkedIn](https://www.linkedin.com/in/melissa-m-a24734204/).  
 
 ## Experiences
 
