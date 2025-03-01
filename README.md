@@ -10,7 +10,7 @@
 ## Experiences
 
 - **Software Engineer** @ 99Ravens AI  
-  _September 2024 - [expected] December 2024_
+  _September 2024 - December 2024_
 
 - **Investment Technology Developer** @ Equitable  
   _January 2024 - April 2024_
